@@ -1,0 +1,2 @@
+# tkManager
+tkinterを使ったフォーム作成をかんたんにするやつ
